@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zPsicologia", "zPsicologia\zPsicologia.csproj", "{B96F52AD-8F29-47A5-922C-EC87E93C2A2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{44883260-99DB-4B44-BF72-32F6EE98C346}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{A0F58915-E402-4ABF-AFDB-A8662298A3A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{B96F52AD-8F29-47A5-922C-EC87E93C2A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B96F52AD-8F29-47A5-922C-EC87E93C2A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B96F52AD-8F29-47A5-922C-EC87E93C2A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44883260-99DB-4B44-BF72-32F6EE98C346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44883260-99DB-4B44-BF72-32F6EE98C346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44883260-99DB-4B44-BF72-32F6EE98C346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44883260-99DB-4B44-BF72-32F6EE98C346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0F58915-E402-4ABF-AFDB-A8662298A3A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F58915-E402-4ABF-AFDB-A8662298A3A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F58915-E402-4ABF-AFDB-A8662298A3A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F58915-E402-4ABF-AFDB-A8662298A3A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
